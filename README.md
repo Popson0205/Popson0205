@@ -3,7 +3,7 @@
 # Hi, I'm POPOOLA IDRIS BAMIGBOYE 👋
 
 
-### 🌍 GIS Analyst | 🌐 Geospatial Specialist | 📊 Data Visualization Enthusiast
+### 🌍 GIS Analyst | 🌐 Geospatial Specialist | 📊 Data Visualization Enthusiast | Data Analyst
 
 
 A skilled GIS analyst with a proven track record of leveraging robust analytical and critical thinking abilities. Possessing extensive expertise in the Geospatial Domain, I am proficient in utilizing Remote Sensing and GIS software to effectively process, analyze, and interpret geographic data. Renowned for my critical thinking and analytical prowess, I consistently contribute as a key decision-maker and problem solver within teams.
@@ -28,5 +28,6 @@ My portfolio showcases my GIS projects, maps, and analysis.
 
 ### Get in Touch
 
-- **Email**: idrispopoola02@gmail.com                 **LinkedIn**: https://www.linkedin.com/in/idris-popoola-b6737922a
+- **Email**: idrispopoola02@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/idris-popoola-b6737922a
 - **Facebook**: https://www.facebook.com/profile.php?id=100004359767366
