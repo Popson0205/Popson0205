@@ -26,4 +26,5 @@ My portfolio showcases my GIS projects, maps, and analysis.
 
 ### Get in Touch
 
-- **Email**: idrispopoola02@gmail.com                 **LinkedIn**: https://www.linkedin.com/in/idris-popoola-b6737922a   Facebook: https://www.facebook.com/profile.php?id=100004359767366
+- **Email**: idrispopoola02@gmail.com                 **LinkedIn**: https://www.linkedin.com/in/idris-popoola-b6737922a
+- **Facebook**: https://www.facebook.com/profile.php?id=100004359767366
