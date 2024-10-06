@@ -10,8 +10,10 @@ A skilled GIS analyst with a proven track record of leveraging robust analytical
 
 ## 🛠️ Skills & Tools
 - **GIS Software**: ArcGIS, QGIS, Google Earth Engine
+- **ArcGIS Online**: Creating web maps, data layers, and spatial analysis using ArcGIS Online, ArcGIS Dashboard, Story Map
 - **Programming**: Python (with libraries like Geopandas, Shapely, etc.), R
-- **Data Visualization**: Mapbox, Leaflet, Plotly
+- **Data Visualization**: Mapbox, Leaflet, Plotly, Excel Advanced data analysis, pivot tables, and data modeling
+- **Data Analysis**: Proficient in analyzing datasets to uncover trends and insights
 - **Remote Sensing**: Satellite Image Processing, LiDAR
 - **Cartography**: Thematic Mapping, Spatial Analysis
 - **Automation**: Zapier
